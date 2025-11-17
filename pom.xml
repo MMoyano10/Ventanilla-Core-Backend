@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ec.edu.espe</groupId>
-	<artifactId>ventanilla</artifactId>
+	<artifactId>web</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ventanilla</name>
-	<description>Ventanilla module to Core</description>
+	<name>web</name>
+	<description>web module to Core</description>
 	<url/>
 	<licenses>
 		<license/>
